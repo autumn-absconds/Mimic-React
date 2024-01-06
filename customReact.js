@@ -14,6 +14,14 @@ const customeRender = (reactElement, container) => {
 
     }
     container.appendChild(domElement)
+
+
+
+
+
+
+
+
 }
 
 const reactElement = {
